@@ -1,0 +1,23 @@
+.dashboard-container {
+  text-align: center;
+  padding: 20px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-width: 300px;
+  margin: auto;
+}
+
+input, button {
+  padding: 10px;
+  border-radius: 5px;
+}
+
+button {
+  background-color: green;
+  color: white;
+  border: none;
+}
